@@ -9,7 +9,7 @@ $: python3 sudoku_game.py
 -> Select an empty box and enter a digit.\
 -> Press ENTER / RETURN to submit the digit.\
 -> The game ends after 3 wrong submits.\
--> Press SPACE to let the game solve itself.\
+-> Press SPACE to let the game solve itself.
 
 
 
